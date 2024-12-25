@@ -1,0 +1,43 @@
+
+var ftGUID_8535568="5893CBEA266E43";
+var ftConfID_8535568="0";
+var ftParams_8535568="ftOBA=1&ft_agentEnv=0&ft_referrer=https://app.pfpmaker.com/;https%3A%2F%2Fapp.pfpmaker.com%2F&us_privacy=${US_PRIVACY}&site_url=https://app.pfpmaker.com/&pub_id=1&sup_platform=1&cachebuster=795178.2190576994&ft_keyword=DV360CampID:__21479470280__&ft_section=DV360CampID:21479470280&ft_partnerimpid=ABAjH0iZanf1ViKsZSP8TSARrgds";
+var ftKeyword_8535568="";
+var ftCustom_8535568="";
+var ftSection_8535568="DV360CampID:21479470280";
+var ftSegment_8535568="afr5";
+var ftSegmentList_8535568=[{s:'afr5'}];
+var ftRuleMatch_8535568="0";
+var ftTimestamp_8535568="1731179847";
+var ftGeoC2_8535568="in";
+var ftGeoState_8535568="mh";
+var ftGeoCity_8535568="pimprala";
+var ftISP_8535568="reliance jio infocomm limited";
+var ftSpeed_8535568="mobile";
+var ftConnType_8535568="mobile";
+var ftDMA_8535568="-1";
+var ftLong_8535568="75.54";
+var ftLat_8535568="21.02";
+var ftPostal_8535568="425002";
+var ftTimeZone_8535568="+530";
+var ftMobileCarrier_8535568="jio";
+var ftImp8535568 = {};
+ftImp8535568.privacy = "x";
+ftImp8535568.guidAge = "264";
+ftImp8535568.impID = "E98AFA18-87A0-1A14-7C64-F293247E7A1F";
+ftImp8535568.duid = "FT:5893CBEA266E43";
+
+ftImp8535568.ft_tpplid = "";
+ftImp8535568.ft_c = {};
+ftImp8535568.gdpr = "";
+ftImp8535568.gdpr_consent = "";
+ftImp8535568.gdpr_pd = "";
+ftImp8535568.oob_consent = "";
+ftImp8535568.gdprStoredConsent = "";
+ftImp8535568.us_privacy = "!!US_PRIVACY!";
+ftImp8535568.gpc = "";
+
+ftImp8535568.jsAppend = "1";
+var ftCreativeId_8535568 = "4919225";
+(function(){var tag=document.getElementById("ft_servedby_8535568")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m8535568";js.setAttribute("name","ftscript_m8535568");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("8535568");
+

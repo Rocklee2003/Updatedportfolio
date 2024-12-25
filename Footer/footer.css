@@ -1,0 +1,104 @@
+/* footer.css */
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 2em 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    font-family: Arial, sans-serif;
+  }
+
+  .download-button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .download-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .footer h2 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    color: #ffb400;
+  }
+  
+  .footer-menu,
+  .footer-profile,.download-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 1em;
+  }
+  
+  .footer-menu ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-menu ul li {
+    margin-bottom: 0.5em;
+  }
+  
+  .footer-menu ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .footer-menu ul li a:hover {
+    color: #ffb400;
+  }
+  
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 1em;
+    border: 2px solid #ffb400;
+    background-image: url("Rocklee.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 1em;
+  }
+  
+  .social-icons a,
+  .social-icons button {
+    color:black;
+    font-size: 2.0em;
+    border: none;
+    background: none;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .social-icons a:hover,
+  .social-icons button:hover {
+    color: #ffb400;
+  }
+
+  
+  
+  @media (max-width: 768px) {
+    .footer {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+  }
+  
